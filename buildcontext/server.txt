@@ -1,0 +1,12 @@
+maxplayers=8
+worldpath=/worlds/
+world=/worlds/world.wld
+worldname=world
+port=7777
+password=
+motd=Terra Serva
+autocreate=3
+difficulty=0
+banlist=/worlds/banlist.txt
+secure=0
+language=en/US
